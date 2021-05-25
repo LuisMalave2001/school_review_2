@@ -1,0 +1,4 @@
+[submodule "LuisMalave2001/TestOdoo"]
+	path = LuisMalave2001/TestOdoo
+	url = git@github.com:LuisMalave2001/TestOdoo.git
+	branch = master
